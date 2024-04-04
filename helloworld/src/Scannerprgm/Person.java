@@ -1,6 +1,6 @@
 package Scannerprgm;
 
-public class Person {
+public class Person{
 	private String name;    // data member
 	private int income;
 	private int tax;

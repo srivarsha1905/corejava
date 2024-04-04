@@ -1,6 +1,8 @@
 package Scannerprgm;
-import java.util.Scanner;
+import java.util.*;
+
 public class Scannerdemo {
+
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter you are name");
@@ -10,7 +12,8 @@ public class Scannerdemo {
 		
 		System.out.println("name of the student " + n);
 		System.out.println("id of the student "+ i);
-	}
 
+
+	}
 
 }

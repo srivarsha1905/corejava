@@ -2,6 +2,7 @@ package Scannerprgm;
 import java.util.Scanner;
 
 public class Personexec {
+public static void main(String[] args) {
 	Scanner sc =new Scanner(System.in);
 	System.out.println("enter person name");
 	String n=sc.nextLine();
@@ -20,4 +21,5 @@ public class Personexec {
 	System.out.println(p1);
 
 
+}
 }
