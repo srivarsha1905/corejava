@@ -5,8 +5,8 @@ public class Exec {
 		
 		EncapsulationDemo e=new EncapsulationDemo();
 		e.n=7;
-		e.s="rashmi";
-		e.a=24;
+		e.s="varsha";
+		e.a=20;
 		
 		e.show();
 	}
